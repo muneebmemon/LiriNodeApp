@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/muneebmemon/LiriNodeApp/issues"
   },
-  "homepage": "https://github.com/muneebmemon/LiriNodeApp#readme"
+  "homepage": "https://github.com/muneebmemon/LiriNodeApp#readme",
+  "dependencies": {
+    "dotenv": "^5.0.0",
+    "node-spotify-api": "^1.0.7",
+    "request": "^2.83.0",
+    "twitter": "^1.7.1"
+  }
 }
