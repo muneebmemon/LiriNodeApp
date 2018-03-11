@@ -37,10 +37,12 @@ If the user doesn't type a movie in, the program will output data for the movie 
 Using the fs Node package, LIRI will take the text inside of random.txt and then use it to call one of LIRI's commands.
 
 ## Technologies used
-* NodeJS
-* Twitter API (NPM)
-* Spotify API (NPM)
-* OMDB API (NPM)
-* FS module (Core module)
-* Request API (NPM)
+* Node.js
 * Javascript
+* Twitter NPM Package
+* Spotify NPM Package
+* OMDB NPM Package
+* Request NPM Package
+
+![alt text](https://github.com/muneebmemon/Bootstrap-Portfolio/blob/master/assets/images/lirinodejs.png "Screenshot One")
+
